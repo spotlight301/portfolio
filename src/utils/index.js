@@ -107,7 +107,7 @@ export const fullstackSkills = [
 ];
 
 export const aiBlockchainSkills = [
-    'GPT4',
+    'GPT-4',
     'AI Chatbot',
     'Rag',
     'Llama',
